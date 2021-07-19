@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xadrex.Tabuleiro
+namespace Xadrez.tabuleiro
 {
-    class Cor
+    enum Cor : int
     {
+        Branca,
+        Preta
+
     }
 }
