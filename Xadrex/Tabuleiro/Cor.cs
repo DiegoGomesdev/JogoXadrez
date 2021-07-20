@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xadrez.tabuleiro
+namespace Xadrez
 {
-    enum Cor : int
+    enum Cor
     {
         Branca,
         Preta
